@@ -1,0 +1,38 @@
+:root {
+    --wall-color: #000;
+    --cell-visited: #f0f0f0;
+    --mouse-eat: orange;
+    --path-current: red; 
+    --path-deadend: blue; 
+    --start-cell: green;
+    --end-cell: purple;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: white;
+    color: black;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.controls {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fafafa;
+}
+
+.legend {
+    margin-bottom: 10px;
+}
+
+canvas {
+    border: 1px solid #333;
+    background-color: #fff;
+    display: block;
+    margin-top: 10px;
+}
