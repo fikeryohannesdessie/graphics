@@ -1,3 +1,4 @@
+# FIKER YOHANNES .....................UGR/4617/16
 # Maze Generator & Solver
 
 This is my submission for the Maze Generator and Solver assignment. It uses a stack-based DFS to generate a proper maze, and a backtracking algorithm to solve it.
